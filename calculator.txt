@@ -1,0 +1,25 @@
+Hi Aakash here, i just built a calculator which can work in various modes
+such as basic, scientific and trigonometric. 
+
+On running the source code, the compiler asks for the mode in which you want to run the calculator.
+
+1. Basic Mode
+*This mode involves basic operations such as addition, subtraction,multiplication and division.
+*The compiler asks for the operation to be performed and two numbers a and b.
+*Using switch case, we have given the result on case by case basis. 
+*After the result is declared, compiler again returns to ask in which mode you want to run to 
+run the calculator.
+*We have used goto function to return to previous operation.
+
+2. Scientific Mode 
+*This is the most interesting mode because it includes running different operations 
+such as log, natural log, squareroot, square, factorial, remainder,power(x,y), power(ex).
+
+3.Trigonometric Mode 
+*This mode involoves calculating all the trigo functions having degrees as input.
+*All the funcs such as sin,cos,tan,cosec,sec and cot are covered in this mode.
+
+
+-------------------------------------------------  Thank You---------------------------------------------------------------
+
+ 
